@@ -13,6 +13,6 @@ console.log(findMore(fruits));
 // console.log(fruits[0]);
 console.log(fruits[2]);
 console.log(fruits[5]);
-console.log(' ');
+console.log('');
 console.log(fruits.some(oneApple));
 console.log(fruits.indexOf('apple'));
