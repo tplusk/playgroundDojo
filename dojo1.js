@@ -1,4 +1,19 @@
+// function makeAlternatingArray(array) {
+    //     // if the array is empty or contains only 1 item, return the original array
+    //     if (array.length <= 1) {
+    //         return array;
+    //     }
+    //     // creating a new array to store the alternate elements
+    //     const alternatingArray = array.filter((element) => );
+    //     // iterating over the input array and adding the alternate elements to the new array
+    //     for (let i = 0; i < array.length; i += 2) {
+    //         alternatingArray.push(array[i]);
+    //     }
+    //     return array.filter(alternatingArray);
+    // }
 
+    
+// Refactored
 
 function makeAlternatingArray(array) {
     if (array.length <= 1) return array;
